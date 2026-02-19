@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Lee 🍁
 
-<!--
-**tsconfigdotjson/tsconfigdotjson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Toronto** | **Distributed Systems** | **TypeScript Evangelist** | **Ex-AWS** | **Waterloo CS '10**
 
-Here are some ideas to get you started:
+> What a long, strange trip it's been. 💀🌹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm Building
+
+🦞 **[lobsterd](https://github.com/tsconfigdotjson/lobsterd)** — Firecracker MicroVM tenant orchestrator. Lightweight VMs with isolated networking, per-tenant overlay filesystems, and an OpenClaw gateway in each guest.
+
+🛋️ **[lobster-lounge](https://github.com/tsconfigdotjson/lobster-lounge)** — A pixel-art control panel for OpenClaw. Drag agents around an underwater tilemap, chat with them, spawn new ones, and manage skills — all from a cozy lounge on the ocean floor.
+
+🎙️ **[expo-realtime-audio](https://github.com/Ask-Poppy/expo-realtime-audio)** — Real-time bidirectional audio streaming for Expo and React Native. Ultra-low latency mic + playback via native AVAudioEngine. Built for voice AI, live audio processing, and real-time communication.
+
+---
+
+### GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/tsconfigdotjson)
+
+---
+
+### Off the Clock
+
+- 👨‍👦‍👦 Three boys. Being a dad is what I want to be remembered for.
+- 🎸 Rhythm guitarist — all three positions, all the immaculate chords
+- 💀🌹 Grateful Dead — always on in the background
+- 🐶 Blue — my Ruby Red Cavalier King Charles
+
+---
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
