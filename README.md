@@ -1,6 +1,6 @@
 # Hey, I'm Lee 🍁
 
-**Toronto** | **Distributed Systems** | **TypeScript Evangelist** | **Ex-AWS** | **Waterloo CS '10**
+**Toronto** 🍁 | **Distributed Systems** 🕸️ | **Security & Privacy** 🔐 | **TypeScript Evangelist** | **Ex-AWS** | **Waterloo CS '10** 🎓
 
 > What a long, strange trip it's been. 💀🌹
 
