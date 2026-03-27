@@ -18,6 +18,8 @@
 
 ### Closed Source
 
+💀 **[deadhead.live](https://deadhead.live)** — A React app I built many moons ago to teach myself the framework. Offline aggregation and in-memory instantaneous search of the entire Grateful Dead catalog from archive.org.
+
 🎯 **[Active Desktop Toys](https://activedesktoptoys.com)** — Interactive desktop toys for macOS, on the App Store. Smash your Claude Code window with a 3D hammer, fling a red ball across your monitors, or lob cannonballs across the screen — all while waiting for your build. Summoned with a hotkey, built with Swift. Toys for vibe coding.
 
 🔐 **[dotlock](https://dotlock.dev)** — Manages and backs up every .env file across all your projects. Edit keys, track changes, and restore files, all from a single encrypted vault on your Mac.
