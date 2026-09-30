@@ -8,23 +8,15 @@
 
 ### What I'm Building
 
-🦞 **[lobsterd](https://github.com/tsconfigdotjson/lobsterd)** — Firecracker MicroVM tenant orchestrator. Lightweight VMs with isolated networking, per-tenant overlay filesystems, and an OpenClaw gateway in each guest.
-
-🛋️ **[lobster-lounge](https://github.com/tsconfigdotjson/lobster-lounge)** — A pixel-art control panel for OpenClaw. Drag agents around an underwater tilemap, chat with them, spawn new ones, and manage skills — all from a cozy lounge on the ocean floor.
+⚡ **[instantdb-rust](https://github.com/tsconfigdotjson/instantdb-rust)** — A drop-in, self-hosted InstantDB sync engine, rewritten in Rust. Your existing `@instantdb` apps, unmodified, on your own Postgres. Wire-compatible, stateless, and scales horizontally. [instantdbrust.com](https://instantdbrust.com)
 
 🎙️ **[expo-realtime-audio](https://github.com/Ask-Poppy/expo-realtime-audio)** — Real-time bidirectional audio streaming for Expo and React Native. Ultra-low latency mic + playback via native AVAudioEngine. Built for voice AI, live audio processing, and real-time communication.
-
-🖥️ **[devtail](https://github.com/tsconfigdotjson/devtail)** — Your terminal is taken. Your menu bar isn't. A native macOS menu bar app that runs your dev servers, build watchers, and log tailers — so you can hand the terminal over to the agent.
-
-🔐 **[dotlock](https://github.com/tsconfigdotjson/dotlock)** — Manages and backs up every .env file across all your projects. Edit keys, track changes, and restore files, all from a single encrypted vault on your Mac.
 
 ---
 
 ### Closed Source
 
 💀 **[deadhead.live](https://deadhead.live)** — A React app I built many moons ago to teach myself the framework. Offline aggregation and in-memory instantaneous search of the entire Grateful Dead catalog from archive.org.
-
-🎯 **[Active Desktop Toys](https://activedesktoptoys.com)** — Interactive desktop toys for macOS, on the App Store. Smash your Claude Code window with a 3D hammer, fling a red ball across your monitors, or lob cannonballs across the screen — all while waiting for your build. Summoned with a hotkey, built with Swift. Toys for vibe coding.
 
 ---
 
