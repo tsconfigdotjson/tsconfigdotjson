@@ -1,6 +1,6 @@
 # Hey, I'm Lee 🍁
 
-**Toronto** | **Distributed Systems** | **Computer Security & Privacy** | **TypeScript Evangelist** | **Ex-AWS** | **Waterloo CS '10**
+**Toronto** | **Distributed Systems** | **Computer Security & Privacy** | **Ex-AWS** | **Waterloo CS '10**
 
 > What a long, strange trip it's been. 💀🌹
 
@@ -11,6 +11,8 @@
 ⚡ **[instantdb-rust](https://github.com/tsconfigdotjson/instantdb-rust)** — A drop-in, self-hosted InstantDB sync engine, rewritten in Rust. Your existing `@instantdb` apps, unmodified, on your own Postgres. Wire-compatible, stateless, and scales horizontally. [instantdbrust.com](https://instantdbrust.com)
 
 🖥️ **[vibe-os](https://github.com/tsconfigdotjson/vibe-os)** — A coding desktop in the browser, on a box you own. Switch between git repos on a machine, spin up a worktree per piece of work, and open terminals into it, all over HTTP from anything with a browser.
+
+📡 **[agent-tail](https://github.com/tsconfigdotjson/agent-tail)** — What every coding agent on your machine is doing right now. A Rust library and CLI that reads the transcripts Claude Code, Codex, Cursor, Gemini CLI and friends already write, and turns each session into one small, current state: thinking, running a tool, waiting on you, done, or errored. Read-only, local, no hooks.
 
 🎙️ **[expo-realtime-audio](https://github.com/Ask-Poppy/expo-realtime-audio)** — Real-time bidirectional audio streaming for Expo and React Native. Ultra-low latency mic + playback via native AVAudioEngine. Built for voice AI, live audio processing, and real-time communication.
 
