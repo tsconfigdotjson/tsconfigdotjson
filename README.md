@@ -12,7 +12,7 @@
 
 🖥️ **[vibe-os](https://github.com/tsconfigdotjson/vibe-os)** — A coding desktop in the browser, on a box you own. Switch between git repos on a machine, spin up a worktree per piece of work, and open terminals into it, all over HTTP from anything with a browser.
 
-📡 **[agent-tail](https://github.com/tsconfigdotjson/agent-tail)** — A read-only Rust library and CLI that reads the transcripts Claude Code, Codex, Cursor, Gemini CLI and friends already write, and turns each session into one small, current state: thinking, running a tool, waiting on you, done, or errored. Its CI harness runs the real agent CLIs against a local mock model server and scores agent-tail's status against what each CLI actually shows.
+📡 **[agent-tail](https://github.com/tsconfigdotjson/agent-tail)** — A Rust library and CLI that turns each Claude Code, Codex, Cursor, Gemini CLI (and friends) session into one small, current state: thinking, running a tool, waiting on you, done, or errored. No hooks and no agent config changes: it just reads the transcripts the agents already write. Every night, its CI harness installs the latest release of each agent CLI, drives it against a local mock model server, and checks agent-tail's status against what the CLI actually shows, so it keeps up as the agents change their transcript formats.
 
 🎙️ **[expo-realtime-audio](https://github.com/Ask-Poppy/expo-realtime-audio)** — Real-time bidirectional audio streaming for Expo and React Native. Ultra-low latency mic + playback via native AVAudioEngine. Built for voice AI, live audio processing, and real-time communication.
 
