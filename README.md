@@ -12,6 +12,8 @@
 
 🖥️ **[vibe-os](https://github.com/tsconfigdotjson/vibe-os)** — A coding desktop in the browser, on a box you own. Switch between git repos on a machine, spin up a worktree per piece of work, and open terminals into it, all over HTTP from anything with a browser.
 
+☎️ **[vibe-os-native](https://github.com/tsconfigdotjson/vibe-os-native)** — Cloud agents you run yourself, on your Mac and your VPS, with one private MCP connection to all of them. Every agent gets its own git worktree and keeps working after you quit the app, with no cloud in the middle.
+
 📡 **[agent-tail](https://github.com/tsconfigdotjson/agent-tail)** — A Rust library that turns every coding agent session on your machine into one live status by reading the transcripts they already write. No hooks. A nightly CI harness tests against the latest release of each agent CLI to keep it current.
 
 🎙️ **[expo-realtime-audio](https://github.com/Ask-Poppy/expo-realtime-audio)** — Real-time bidirectional audio streaming for Expo and React Native. Ultra-low latency mic + playback via native AVAudioEngine. Built for voice AI, live audio processing, and real-time communication.
